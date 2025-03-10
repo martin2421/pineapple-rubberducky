@@ -11,7 +11,7 @@ DELAY 4000
 REM | Alt+D below moves cursor focus to the URL bar. This is needed for Internet Explorer and Edge (Does not impact Chrome or Firefox)
 ALT d
 REM ~~ | Change line below to desired URL
-REM ~~ | STRING url_goes_here
+STRING url_goes_here
 ENTER
 REM ~~ | Change line below to "GUI UP" to maximize screen. Change line below to "F11" to fullscreen.
 GUI UP

@@ -1,0 +1,17 @@
+ATTACKMODE STORAGE
+WAIT_FOR_BUTTON_PRESS
+ATTACKMODE HID
+
+GUI r
+DELAY 1000
+REM ~~ | Change line below to desired browser: chrome, firefox, iexplore, etc.
+STRING chrome
+ENTER
+DELAY 4000
+REM | Alt+D below moves cursor focus to the URL bar. This is needed for Internet Explorer and Edge (Does not impact Chrome or Firefox)
+ALT d
+REM ~~ | Change line below to desired URL
+STRING https://drive.google.com/file/d/1W9NgTkscwEEbbi-4zUcly81154KGpykT/view?usp=sharing
+ENTER
+REM ~~ | Change line below to "GUI UP" to maximize screen. Change line below to "F11" to fullscreen.
+GUI UP

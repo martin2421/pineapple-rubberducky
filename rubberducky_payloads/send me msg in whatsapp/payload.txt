@@ -12,8 +12,8 @@ REM #
 REM #  Date: 08/03/2023
 REM # -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DEFINE PHONENUMBER +17783202421
-DEFINE MESSAGE Hi this is Martin
+DEFINE PHONENUMBER phone_number_goes_here
+DEFINE MESSAGE Hello World
 
 REM #-------------------------------------------------
 REM # Below lines will open search engine and type https://
